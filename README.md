@@ -1,16 +1,13 @@
 ## Hi there 👋
+My name is Samir Emilio. I want to share with us what i do and who i am.
 
-<!--
-**samiremilio/samiremilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-I'm Student! In Computer Sciense degree and IA degree.
+-I'm currently learning the path of Machine Learning.
+-I'm want to work in data scientist and software developer.
+-I'm from Argentina and i live in Rosario, Santa Fe.
+-I was born on April 11, 1999. So rigth now i've 25 Years.
+-My main language is spanish and i cant talk in english.
+-My hobbies are Videogames and boardgames. D&D too. I watch movies, animes. I read comics, mangas, books. I like cooking.
+-To contact me you cand send me a email. You can search me in linkedin https://www.linkedin.com/in/samirkemilio/ .
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks to reading!
